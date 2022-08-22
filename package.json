@@ -1,0 +1,19 @@
+{
+  "name": "proyecto001-app",
+  "version": "1.0.0",
+  "description": "Proyecto de topografía Luis y Pruden",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcprogramin/proyecto001-app.git"
+  },
+  "author": "Luis y Prudencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcprogramin/proyecto001-app/issues"
+  },
+  "homepage": "https://github.com/pcprogramin/proyecto001-app#readme"
+}
